@@ -29,7 +29,7 @@ Before running the project, ensure you have the following dependencies installed
 - `Resume_parser.py`: Resume parsing module.
 - `templates/`: HTML templates for the web application.
 - `static/`: Static files (CSS, images, etc.) for the web application.
-- `Assignments-AI-20BIT0441/`: Folder containing assignment notebooks and datasets.
+- `/`: Folder containing assignment notebooks and datasets.
 
 ## Additional Resources
 
@@ -88,7 +88,7 @@ Report: The project report is available in the repository. It provides detailed 
 
 Demo Video: A demo video showcasing the project functionality is available here.
 
-Data Sets(for assignments)(Link:https://drive.google.com/drive/folders/1Sxp0-cwl0nEDT5cbkbB3b8RUhwZSfi9h?usp=sharing): The project utilizes specific data sets for training and evaluation purposes. These data sets can be accessed via the Google Drive link provided in the repository.
+Data Sets(for assignments)(Link:https://drive.google.com/drive/folders/1oTXsdPHiFKT7hjl5WV3dFmckRFxYYt61?usp=sharing): The project utilizes specific data sets for training and evaluation purposes. These data sets can be accessed via the Google Drive link provided in the repository.
 
 Contributing
 Contributions to this project are welcome. If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
