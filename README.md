@@ -34,7 +34,7 @@ Before running the project, ensure you have the following dependencies installed
 ## Additional Resources
 
 - [Demo Video](https://drive.google.com/file/d/1R8K-JbSm0XpSLmjK_8FCeyr-EzEs84uQ/view?usp=sharing): Watch a demonstration of the project in action.
-- [Project Report](will be here or link :-): Read the report documenting the assignments.
+- [Project Report](will be here or link:https://drive.google.com/file/d/1iq9cLihb_N9iWSH7BdH3B9iwe1Ve4c8A/view?usp=sharing :-): Read the report documenting the assignments.
 - [Drive Folder](https://drive.google.com/drive/folders/1oTXsdPHiFKT7hjl5WV3dFmckRFxYYt61?usp=sharing): Access the assignments and datasets on Google Drive.
 
 ## Contributors
