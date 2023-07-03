@@ -33,17 +33,16 @@ Before running the project, ensure you have the following dependencies installed
 
 ## Additional Resources
 
-- [Demo Video](https://drive.google.com/file/d/1R8K-JbSm0XpSLmjK_8FCeyr-EzEs84uQ/view): Watch a demonstration of the project in action.
-- [Project Report](will be here or link:-): Read the report documenting the assignments.
-- [Drive Folder](https://drive.google.com/drive/folders/1Sxp0-cwl0nEDT5cbkbB3b8RUhwZSfi9h?usp=sharing): Access the assignments and datasets on Google Drive.
+- [Demo Video](https://drive.google.com/file/d/1R8K-JbSm0XpSLmjK_8FCeyr-EzEs84uQ/view?usp=sharing): Watch a demonstration of the project in action.
+- [Project Report](will be here or link :-): Read the report documenting the assignments.
+- [Drive Folder](https://drive.google.com/drive/folders/1oTXsdPHiFKT7hjl5WV3dFmckRFxYYt61?usp=sharing): Access the assignments and datasets on Google Drive.
 
 ## Contributors
 - Danvarsha Meka(https://github.com/varshh10/AI-enabled-Resume-Screening.git) (20BCR7102,VIT-AP)
 - Jeeban Bhagat (https://github.com/jeeban101/AI-Enabled-Candidate-Resume-Screening-) (20BIT0441, VIT,Vellore)
 - P.Satyanarayana Reddy (https://github.com/Satyaa01/AWS-Project) (20BRS1263, VIT,Chennai)
+- Ashutosh Raj Shrestha (https://github.com/xargs0/AI-Enabled-Candidate-Resume-Screening-)(20BIT0444,VIT,Vellore)
   
-
-
 ## Requirements
 
 - Python 3.x
