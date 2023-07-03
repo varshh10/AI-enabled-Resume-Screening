@@ -81,8 +81,8 @@ if Error:
 -pip install pyresparser
 does the trick. Also try different spacy versions and models, because they produce different results. Haven't tested any further myself. Hope this helps :)
 
-Assignments(https://drive.google.com/drive/folders/1Sxp0-cwl0nEDT5cbkbB3b8RUhwZSfi9h?usp=sharing)
-The "Assignments-AI-20BIT0441" folder contains assignments in Jupyter Notebook format. Each assignment is a separate .ipynb file that demonstrates different concepts and techniques related to AI.
+Assignments(https://drive.google.com/drive/folders/1oTXsdPHiFKT7hjl5WV3dFmckRFxYYt61?usp=sharing)
+The repository contains assignments in Google Colab Notebook format. Each assignment is a separate .ipynb file that demonstrates different concepts and techniques related to AI.
 
 Additional Files
 Report: The project report is available in the repository. It provides detailed information about the system architecture, algorithms used, and evaluation results.
