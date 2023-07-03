@@ -29,7 +29,8 @@ Before running the project, ensure you have the following dependencies installed
 - `Resume_parser.py`: Resume parsing module.
 - `templates/`: HTML templates for the web application.
 - `static/`: Static files (CSS, images, etc.) for the web application.
-- `/`: Folder containing assignment notebooks and datasets.
+- `SmartBridge Assignment Folder/`: Folder containing SmartBridge Assignments.
+- `Datasets for Assignments/`:Folder consisting of Datasets used for Assignments.
 
 ## Additional Resources
 
