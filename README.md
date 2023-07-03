@@ -31,6 +31,7 @@ Before running the project, ensure you have the following dependencies installed
 - `static/`: Static files (CSS, images, etc.) for the web application.
 - `SmartBridge Assignment Folder/`: Folder containing SmartBridge Assignments.
 - `Datasets for Assignments/`:Folder consisting of Datasets used for Assignments.
+- `Demo Link For Project/`: Consists of the demo video link for the project.
 
 ## Additional Resources
 
