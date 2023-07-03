@@ -32,7 +32,7 @@ Before running the project, ensure you have the following dependencies installed
 - `SmartBridge Assignment Folder/`: Folder containing SmartBridge Assignments.
 - `Datasets for Assignments/`:Folder consisting of Datasets used for Assignments.
 - `Demo Link For Project/`: Consists of the demo video link for the project.
-
+- `AI Project Report/`: A complete documentation of the Project.
 ## Additional Resources
 
 - [Demo Video](https://drive.google.com/file/d/1R8K-JbSm0XpSLmjK_8FCeyr-EzEs84uQ/view?usp=sharing): Watch a demonstration of the project in action.
